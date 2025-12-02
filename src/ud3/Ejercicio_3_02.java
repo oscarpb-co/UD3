@@ -7,9 +7,9 @@ public class Ejercicio_3_02 {
     private static int tipotriangulo(int lado1, int lado2, int lado3) {
         if ((lado1 + lado2) > lado3 && (lado1 + lado3) > lado2
                 && (lado2 + lado3) > lado1) {
-            if (lado1 != lado2 && lado1 != lado3 && lado2 != lado3) {
+            if (lado1 != lado2 && lado2 != lado3) {
                 return 3; //Tipo: triangulo escaoeno
-            } else if (lado1 == lado2 && lado2 == lado3 && lado1 == lado3) {
+            } else if (lado1 == lado2 && lado2 == lado3) {
                 return 1; //Tipo: tirangulo equilatero
             } else {
                 return 2; //Tipo: triangulo isosceles
