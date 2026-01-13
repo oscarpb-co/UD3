@@ -37,10 +37,10 @@ public class AceptaElReto08 {
 //
 //        }
 
-        Scanner sc = new Scanner(System.in);
-
-        while (sc.hasNextLine()) {
-            String num = sc.nextLine();
+        FastScanner fin = new FastScanner(System.in);
+        Scanner in = new Scanner(System.in);
+        while (in.hasNextLine()) {
+            String num = in.nextLine();
 
             String entera;
             String decimal = "";
