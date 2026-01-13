@@ -2,7 +2,7 @@ package AceptaElReto;
 
 import java.util.Scanner;
 
-public class AceptaElReto2 {
+public class AceptaElReto02 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

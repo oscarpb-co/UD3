@@ -2,7 +2,7 @@ package AceptaElReto;
 
 import java.util.Scanner;
 
-public class AceptaELReto4 {
+public class AceptaElReto04 {
 
     private static int persistenciaMult(int num) {
 //        int contador = 0;

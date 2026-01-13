@@ -2,7 +2,7 @@ package AceptaElReto;
 
 import java.util.Scanner;
 
-public class AceptaElReto6 {
+public class AceptaElReto06 {
 
    private static boolean esGalo (String nombre){
        return nombre.endsWith("IX");

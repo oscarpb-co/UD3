@@ -2,7 +2,7 @@ package AceptaElReto;
 
 import java.util.Scanner;
 
-public class AceptaELReto5 {
+public class AceptaElReto05 {
     public static Scanner in = new Scanner(System.in);
     
     private static void resuelveElCaso() {

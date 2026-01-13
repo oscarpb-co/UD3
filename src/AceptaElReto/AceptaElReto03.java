@@ -2,7 +2,7 @@ package AceptaElReto;
 
 import java.util.Scanner;
 
-public class AceptaEReto3 {
+public class AceptaElReto03 {
 
     private static String acronimo(String entrada) {
         Scanner in = new Scanner(entrada);
